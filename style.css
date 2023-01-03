@@ -1,0 +1,101 @@
+body {
+    font-size: 30px;
+    margin: 0px;
+}
+
+.color {
+    color: red;
+}
+
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding: 5px;
+}
+
+.half-width img {
+    width: 70%;
+    padding: 10px;
+
+}
+
+.link-buttom {
+    text-decoration: none;
+    background-color: green;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.top-page {
+    background-image: url(Frame\ 57.jpg);
+
+    background-repeat: no-repeat;
+
+}
+
+.half-width img {
+    width: 600px;
+    height: 600px;
+    padding: 15px;
+}
+
+.link {
+    text-decoration: none;
+    background-color: aqua;
+    padding: 10px 40px;
+    border-radius: 5px;
+
+}
+
+.top-page-bg {
+    background-image: url(Frame\ 56.jpg);
+    background-repeat: no-repeat;
+}
+
+.text-align {
+    text-align: center;
+}
+
+.color-cd {
+
+    color: blueviolet;
+
+}
+
+.center {
+    text-align: center;
+    box-shadow: 5px 10px;
+
+
+}
+
+.m1 {
+    text-align: left;
+    background-color: antiquewhite;
+
+    padding: 20px 40px;
+    border-radius: 5px;
+    box-shadow: 5px 10px #888888;
+}
+
+.m2 {
+    text-align: center;
+    background-color: antiquewhite;
+
+    padding: 20px 40px;
+    border-radius: 5px;
+    box-shadow: 5px 10px #888888;
+}
+
+.m3 {
+    text-align: right;
+    background-color: antiquewhite;
+    padding: 20px 40px;
+    border-radius: 5px;
+    box-shadow: 5px 10px #888888;
+}
